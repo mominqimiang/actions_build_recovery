@@ -1,16 +1,16 @@
 {
-  "twrp_url": "https://github.com/minimal-manifest-twrp/platform_manifest_twrp_omni",
-  "twrp_branch": "twrp-9.0",
-  "git_username": "Pinkdoge",
-  "git_email": "42758990+Pinkdoge@users.noreply.github.com",
+  "twrp_url": "https://github.com/minimal-manifest-twrp/platform_manifest_twrp_aosp",
+  "twrp_branch": "twrp-12.1",
+  "git_username": "mominqimiang",
+  "git_email": "3227495621@qq.com",
   "use_own_dt": true,
-  "dt_url": "pinkdoge/twrp_device_huawei_kiwi",
-  "dt_branch": "android-9.0",
+  "dt_url": "2333mmqm/android_device_vivo_PD2165",
+  "dt_branch": "main",
   "dt_remote": "github",
-  "dt_path": "device/huawei/kiwi",
-  "device_code": "kiwi",
+  "dt_path": "device/vivo/PD2165",
+  "device_code": "PD2165",
   "fix_product": true,
   "fix_misscom": true,
   "fix_busybox": false,
-  "fix_branch": "android-9.0"
+  "fix_branch": "twrp-12.1"
 }
